@@ -1,4 +1,8 @@
 
+## `Deployed URL`
+
+https://life-os-ai-appuctivity-coach-22jhygmd3kwaoevbt2qxrk.streamlit.app/
+
 # 🧠 LIFE-OS
 
 ```text
