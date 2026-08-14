@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 LIFE-OS
 
 ```text
@@ -166,7 +166,7 @@ Prompt Engineering
 +
 AI-powered Personalization
 ```
-=======
+
 # life-os-ai-productivity-coach
 Life-OS is an AI-powered screen-time analytics dashboard that turns digital activity into actionable lifestyle insights.  Instead of simply telling users to "use their phone less", Life-OS analyses where their time goes and recommends real-world alternatives.
->>>>>>> c715e887f46c43108108e136e119a592ff508789
+
